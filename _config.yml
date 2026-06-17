@@ -29,7 +29,7 @@ labs:
 
   - title: Expression V1
     icon: "🧠"
-    url: "https://github.com/Edidevi/Expression-V1"
+    url: "https://edidevi.github.io/Expression-V1/"
     concepts:
       - Amazon Rekognition
       - Amazon Bedrock
