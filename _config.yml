@@ -14,7 +14,9 @@ nav:
     url: https://www.linkedin.com/in/osaru-e-4011a7192/
   - label: Network Labs
     url: https://edidevi.github.io/My-Work/
-
+  - label: Blog
+    url:  https://edidevi.github.io/Blog/
+  
 # Stats bar
 stats:
   - number: "1"
