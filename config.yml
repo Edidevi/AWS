@@ -1,10 +1,12 @@
 title: OsaruEdiae
-description: Junior network engineer based in London, building hands-on skills in enterprise switching, routing, and network design.
+description: AWS Projects — serverless applications, cloud architecture, and AI-powered solutions built on Amazon Web Services.
 author: Edidevi
 github_username: Edidevi
 
+# Avatar
 avatar: https://github.com/user-attachments/assets/5a0e6044-1ba6-4bcc-83d6-d3ba249104c8
 
+# Navigation
 nav:
   - label: About
     url: https://edidevi.github.io/About/
@@ -13,14 +15,32 @@ nav:
   - label: Network Labs
     url: https://edidevi.github.io/My-Work/
   - label: Blog
-    url: https://edidevi.github.io/Blog/
+    url:  https://edidevi.github.io/Blog/
+  
+# Stats bar
+stats:
+  - number: "1"
+    label: Projects Published
+  - number: "100%"
+    label: Serverless
+  - number: AWS
+    label: Cloud Platform
 
+# Lab projects
+labs:
+
+  - title: Expression V1
+    icon: "🧠"
+    url: "https://edidevi.github.io/Expression-V1/"
+    concepts:
+      - Amazon Rekognition
+      - Amazon Bedrock
+      - AWS Lambda
+      - Amazon Cognito
+      - DynamoDB
+      - CloudFront
+
+# Footer
 footer:
   hosted_on: GitHub Pages
   hosted_url: https://pages.github.com
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "default"
